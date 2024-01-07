@@ -24,6 +24,17 @@ main{
     border: 0;
 }
 
+.btn-secondary{
+    padding: 21px 25px;
+    border-radius: 5px;
+    color: #F15B22;
+    background-color: #FFF;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+}
+
 /* header */
 
 .header-content{
@@ -83,5 +94,46 @@ main{
 }
 
 
+/* my plan section */
+
+.section2{
+    background-color: aqua;
+}
+
+.myplan-title{
+    color: var(--Dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.myplan-images-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 100px;
+    margin-bottom: 130px;
+}
+
+.section2 img{
+    width: 92.958px;
+    height: 92.958px;
+}
+
+.section2 h4{
+    color: var(--Dark-01, #151414);
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 18px;
+    margin-bottom: 16px;
+}
+
+.section2 p{
+    color: var(--Dark-03, #737272);
+    font-size: 25px;
+    font-weight: 500;
+}
 
 
