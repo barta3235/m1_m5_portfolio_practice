@@ -29,7 +29,6 @@ main{
     border-radius: 5px;
     color: #F15B22;
     background-color: #FFF;
-    color: #FFF;
     font-size: 20px;
     font-weight: 600;
     border: 0;
@@ -97,7 +96,7 @@ main{
 /* my plan section */
 
 .section2{
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 
 .myplan-title{
@@ -135,5 +134,32 @@ main{
     font-size: 25px;
     font-weight: 500;
 }
+
+/* section3 starts */
+
+.section3{
+   /* background-image: url("/images/gradient3.png"), url("/images/watch.png"); */
+}
+
+.main-box-title{
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 24px;
+    width: 459px;
+}
+
+.main-box{
+    padding-left: 64px;
+    padding-top: 59px;
+    padding-bottom: 59px;
+    margin-bottom: 130px;
+    background-image: url("/images/gradient3.png"), url("/images/watch.png");
+}
+
+
+
+/* footer section */
 
 
