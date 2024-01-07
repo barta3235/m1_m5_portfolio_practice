@@ -95,9 +95,10 @@ main{
 
 /* my plan section */
 
-.section2{
-    /* background-color: aqua; */
-}
+/* .section2{
+      background-color: aqua; 
+} 
+*/
 
 .myplan-title{
     color: var(--Dark-01, #151414);
@@ -137,9 +138,9 @@ main{
 
 /* section3 starts */
 
-.section3{
-   /* background-image: url("/images/gradient3.png"), url("/images/watch.png"); */
-}
+/* .section3{
+    background-image: url("/images/gradient3.png"), url("/images/watch.png"); 
+} */
 
 .main-box-title{
     color: #FFF;
